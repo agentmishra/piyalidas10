@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Personal Website: https://piyalidas10.github.io/
-Codepen Profile : http://codepen.io/piyalidas 
-Github : https://github.com/piyalidas10
-Stack Overflow : http://stackoverflow.com/users/7585478/piyali
-Hackerrank : https://www.hackerrank.com/piyalidas_it
-Coderbyte : https://coderbyte.com/profile/piyalidas
+#### Personal Website: https://piyalidas10.github.io/
+#### Codepen Profile : http://codepen.io/piyalidas 
+#### Github : https://github.com/piyalidas10
+#### Stack Overflow : http://stackoverflow.com/users/7585478/piyali
+#### Hackerrank : https://www.hackerrank.com/piyalidas_it
+#### Coderbyte : https://coderbyte.com/profile/piyalidas
 
 Agile tools :  JIRA, Azure
 Automated Deployment Tool : Jenkins
